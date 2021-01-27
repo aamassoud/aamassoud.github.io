@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  - title: "Research"
+    url: /research/
+  - title: "Communication"
     url: /categories/
-  - title: "Tags"
+  - title: "Teaching"
     url: /tags/
-  - title: "About"
+  - title: "Equity and Inclusion"
     url: /about/
