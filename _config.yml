@@ -18,7 +18,7 @@ email:
 description: "Alexander Massoud's Home Page"
 twitter_username: "@amassoudpr"
 github_username: "aamassoud"
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -55,28 +55,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alexander Massoud"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Ithaca, NY"
-      icon: "fas fa-map-marker-alt"
-      url: "https://www.ithaca.edu/academics/school-humanities-and-sciences/physics-and-astronomy"
-    - label: "Email"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "mailto:amassoud@ithaca.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/amassoudpr"
-    - label: "Mando : )"
-      icon: "fab fa-mandalorian"
-      url: "https://starwars.fandom.com/wiki/Mandalorian"
+  name     : "Alexander Massoud"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Physics graduate of Ithaca College Post-bacc astrophysics researcher @ Ithaca College"
+  location : "New Jersey"
+  email    : "amassoud@ithaca.edu"
+  # links:
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/amassoudpr"
+# footer:
 
 defaults:
   # _posts
