@@ -55,11 +55,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name     : "Alexander Massoud"
-  avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Physics graduate of Ithaca College Post-bacc astrophysics researcher @ Ithaca College"
-  location : "New Jersey"
-  email    : "amassoud@ithaca.edu"
+  name      : "Alexander Massoud"
+  avatar    : "/assets/images/bio-photo.jpg"
+  bio       : "Physics graduate of Ithaca College Post-bacc astrophysics researcher @ Ithaca College"
+  location  : "New Jersey"
+  email     : "amassoud@ithaca.edu"
+  # uri       : "<MY GRAD SCHOOL PAGE WILL GO HERE>"
+  home      : "https://aamassoud.github.io/"
+  twitter   : "amassoudpr"
   # links:
 
 # footer:
