@@ -16,6 +16,6 @@ sidebar:
 - **Astronomy Club Founder and Vice President**, Ithaca College (Fall 2019)
 - **Teaching Assistant**, Ithaca College *(Astronomy, algebra-based)* (2017-20)
 - **NSF REU Researcher**, Maria Mitchell Association, Nantucket (Summer 2019)
-  - Project Title: "Identifying Strong Lensing Images in the Unusual Galaxy Cluster Abell 2146" >
+  - Project Title: "Identifying Strong Lensing Images in the Unusual Galaxy Cluster Abell 2146"
 
 {% include figure image_path="/assets/images/cv-photo.jpg" alt="" caption="" %}
