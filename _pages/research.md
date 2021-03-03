@@ -7,35 +7,35 @@ sidebar:
     text: "amassoud [@] ithaca.edu"
     
 gallery2:
-  - url: /assets/images/gallery2-00.jpg
-    image_path: /assets/images/gallery2-00.jpg
+  - url: /assets/images/gallery2-00.JPG
+    image_path: /assets/images/gallery2-00.JPG
     alt: ""
     title: "Roel Olvera (Texas Lutheran University '21) and I in the Loines Observatory dome with a 24-inch research telescope."
-  - url: /assets/images/gallery2-01.jpg
-    image_path: /assets/images/gallery2-01.jpg
+  - url: /assets/images/gallery2-01.JPG
+    image_path: /assets/images/gallery2-01.JPG
     alt: "Roel Olvera, Jordan Ealy (University of Maryland grad student), Celia Mulcahey (Mount Holyoke College '21), Abby Mintz (Yale '21), Georgia Stolle-McAllister and Dr. Regina Jorgenson (Maria Mitchell Observatory), and I with Dr. Andrew J. Feustel, astronaut!"
     title: "Image 1 title caption"
-  - url: /assets/images/gallery2-02.jpg
-    image_path: /assets/images/gallery2-02.jpg
+  - url: /assets/images/gallery2-02.JPG
+    image_path: /assets/images/gallery2-02.JPG
     alt: ""
     title: "Me talking about my summer with guests at the Nantucket Red Tie Soiree."
-  - url: /assets/images/gallery2-03.jpg
-    image_path: /assets/images/gallery2-03.jpg
+  - url: /assets/images/gallery2-03.JPG
+    image_path: /assets/images/gallery2-03.JPG
     alt: ""
     title: "Georgia Stolle-McAllister, Dr. Philip Muirhead (Boston University), and I at the Nantucket Red Tie Soiree."
-  - url: /assets/images/gallery2-04.jpg
-    image_path: /assets/images/gallery2-04.jpg
+  - url: /assets/images/gallery2-04.JPG
+    image_path: /assets/images/gallery2-04.JPG
     alt: ""
     title: "Georgia Stolle-McAllister and I, working hard!"
-  - url: /assets/images/gallery2-05.jpg
-    image_path: /assets/images/gallery2-05.jpg
+  - url: /assets/images/gallery2-05.JPG
+    image_path: /assets/images/gallery2-05.JPG
     alt: ""
     title: "Me giving a public talk."
   - url: /assets/images/gallery2-06.jpg
     image_path: /assets/images/gallery2-06.jpg
     alt: ""
     title: "All of us atop the Vestal Street Observatory, including the venerable Gary Walker."
-  - url: /assets/images/gallery2-007.jpg
+  - url: /assets/images/gallery2-07.jpg
     image_path: /assets/images/gallery2-07.jpg
     alt: ""
     title: "Lounging"
