@@ -9,6 +9,8 @@ sidebar:
 
 [Go to my CV](/assets/documents/massoud_cv_TeX.pdf)
 
+{% include figure image_path="/assets/images/cv-photo.jpg" alt="" caption="" %}
+
 ## Quick Highlights
 - **NSF GRFP Proposal Writing**, The University of Denver (2020)
 - **B.A., Physics**, *Summa Cum Laude*, Ithaca College (May 2020)
