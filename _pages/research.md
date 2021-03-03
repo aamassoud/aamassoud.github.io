@@ -13,8 +13,8 @@ gallery2:
     title: "Roel Olvera (Texas Lutheran University '21) and I in the Loines Observatory dome with a 24-inch research telescope."
   - url: /assets/images/gallery2-01.JPG
     image_path: /assets/images/gallery2-01.JPG
-    alt: "Roel Olvera, Jordan Ealy (University of Maryland grad student), Celia Mulcahey (Mount Holyoke College '21), Abby Mintz (Yale '21), Georgia Stolle-McAllister and Dr. Regina Jorgenson (Maria Mitchell Observatory), and I with Dr. Andrew J. Feustel, astronaut!"
-    title: "Image 1 title caption"
+    alt: ""
+    title: "Roel Olvera, Jordan Ealy (University of Maryland grad student), Celia Mulcahey (Mount Holyoke College '21), Abby Mintz (Yale '21), Georgia Stolle-McAllister and Dr. Regina Jorgenson (Maria Mitchell Observatory), and I with Dr. Andrew J. Feustel, astronaut!"
   - url: /assets/images/gallery2-02.JPG
     image_path: /assets/images/gallery2-02.JPG
     alt: ""
