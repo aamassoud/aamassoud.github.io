@@ -7,14 +7,18 @@ sidebar:
     text: "amassoud [@] ithaca.edu"
     
 gallery2:
-  - url: /assets/images/gallery2-00.JPG
-    image_path: /assets/images/gallery2-00.JPG
+  - url: /assets/images/gallery2-06.jpg
+    image_path: /assets/images/gallery2-06.jpg
     alt: ""
-    title: "Roel Olvera (Texas Lutheran University '21) and I in the Loines Observatory dome with a 24-inch research telescope."
-  - url: /assets/images/gallery2-01.JPG
-    image_path: /assets/images/gallery2-01.JPG
+    title: "Roel Olvera (Texas Lutheran University '21), Jordan Ealy (University of Maryland grad student), Celia Mulcahey (Mount Holyoke College '21), Abby Mintz (Yale '21), Georgia Stolle-McAllister and Dr. Regina Jorgenson (Maria Mitchell Observatory), and I atop the Vestal Street Observatory with the venerable Gary Walker."
+  - url: /assets/images/gallery2-07.jpg
+    image_path: /assets/images/gallery2-07.jpg
     alt: ""
-    title: "Roel Olvera, Jordan Ealy (University of Maryland grad student), Celia Mulcahey (Mount Holyoke College '21), Abby Mintz (Yale '21), Georgia Stolle-McAllister and Dr. Regina Jorgenson (Maria Mitchell Observatory), and I with Dr. Andrew J. Feustel, astronaut!"
+    title: "Lounging"
+  - url: /assets/images/gallery2-05.JPG
+    image_path: /assets/images/gallery2-05.JPG
+    alt: ""
+    title: "Me giving a public talk."
   - url: /assets/images/gallery2-02.JPG
     image_path: /assets/images/gallery2-02.JPG
     alt: ""
@@ -27,18 +31,14 @@ gallery2:
     image_path: /assets/images/gallery2-04.JPG
     alt: ""
     title: "Georgia Stolle-McAllister and I, working hard!"
-  - url: /assets/images/gallery2-05.JPG
-    image_path: /assets/images/gallery2-05.JPG
+  - url: /assets/images/gallery2-01.JPG
+    image_path: /assets/images/gallery2-01.JPG
     alt: ""
-    title: "Me giving a public talk."
-  - url: /assets/images/gallery2-06.jpg
-    image_path: /assets/images/gallery2-06.jpg
+    title: "All of us on Vestal Street with Dr. Andrew J. Feustel, astronaut!"
+  - url: /assets/images/gallery2-00.JPG
+    image_path: /assets/images/gallery2-00.JPG
     alt: ""
-    title: "All of us atop the Vestal Street Observatory, including the venerable Gary Walker."
-  - url: /assets/images/gallery2-07.jpg
-    image_path: /assets/images/gallery2-07.jpg
-    alt: ""
-    title: "Lounging"
+    title: "Roel Olvera and I in the Loines Observatory dome with a 24-inch research telescope."
 ---
 
 ## Observing and Modeling Planet-Formation in a Distant Galaxy
