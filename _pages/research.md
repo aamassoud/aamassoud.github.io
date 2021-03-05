@@ -35,6 +35,10 @@ gallery2:
     image_path: /assets/images/gallery2-01.JPG
     alt: ""
     title: "All of us on Vestal Street with Dr. Andrew J. Feustel, astronaut!"
+  - url: /assets/images/gallery2-08.JPG
+    image_path: /assets/images/gallery2-08.JPG
+    alt: ""
+    title: "Steps Beach"
   - url: /assets/images/gallery2-00.JPG
     image_path: /assets/images/gallery2-00.JPG
     alt: ""
