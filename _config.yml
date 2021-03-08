@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title : "Alexander Massoud (He/Him/His)"
+title : "Alexander Massoud"
 title_separator: "-"
-name  : "Alexander Massoud"
+name  : "Alexander Massoud (He/Him/His)"
 description: "Alexander Massoud's Home Page"
 url   : "https://aamassoud.github.io"
 minimal_mistakes_skin: dark
