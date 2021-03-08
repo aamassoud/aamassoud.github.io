@@ -16,7 +16,7 @@
 locale: "en-US"
 title : "Alexander Massoud"
 title_separator: "-"
-name  : "Alexander Massoud (He/Him/His)"
+name  : "Alexander Massoud"
 description: "Alexander Massoud's Home Page"
 url   : "https://aamassoud.github.io"
 minimal_mistakes_skin: dark
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name      : "Alexander Massoud"
+  name      : "Alexander Massoud (He/Him/His)"
   avatar    : "/assets/images/bio-photo.jpg"
   bio       : "Physics graduate of Ithaca College Post-bacc astrophysics researcher @ Ithaca College"
   location  : "New Jersey"
