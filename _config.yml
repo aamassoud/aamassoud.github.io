@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title : "Alexander Massoud"
+title : "Alexander Massoud (He/Him/His)"
 title_separator: "-"
 name  : "Alexander Massoud"
 description: "Alexander Massoud's Home Page"
