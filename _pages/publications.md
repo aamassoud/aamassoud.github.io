@@ -38,3 +38,8 @@ I will update this page with my full list of astronomy publications.
 My work that has been featured in literary magazines
 
 {% include feature_row id="feature_row1" %}
+
+## Miscellaneous
+Things I've created that may not fall into a convenient category
+
+<iframe frameborder="0" src="https://itch.io/embed/973915" width="552" height="167"><a href="https://amaas.itch.io/pocket-planet-fantasy">Pocket Planet Fantasy by amaas</a></iframe>
