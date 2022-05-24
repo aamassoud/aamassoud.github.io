@@ -4,8 +4,8 @@ permalink: /publications/
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "amassoud [@] ithaca.edu"
-    
+    text: "aam [@] utdallas.edu"
+
 feature_row1:
   - image_path: /assets/images/bison_diorama_model_1939.jpg
     image_caption: "Credit: AMNH Library"
@@ -32,7 +32,7 @@ feature_row1:
     excerpt: "Book review of Aracelis Girmay’s *The Black Maria* published online for Stillwater"
 ---
 
-I will update this page with my full list of astronomy publications.
+I will update this page with my full list of peer-reviewed publications.
 
 ## Literary
 My work that has been featured in literary magazines
