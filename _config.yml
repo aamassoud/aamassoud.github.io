@@ -58,12 +58,12 @@ plugins:
 author:
   name      : "Alexander Massoud (He/Him/His)"
   avatar    : "/assets/images/bio-photo.jpg"
-  bio       : "Physics graduate of Ithaca College Post-bacc astrophysics researcher @ Ithaca College"
-  location  : "New Jersey"
-  email     : "amassoud@ithaca.edu"
-  # uri       : "<MY GRAD SCHOOL PAGE WILL GO HERE>"
+  bio       : "PhD student @ UTD"
+  location  : "Richardson, Texas"
+  email     : "aam210003@utdallas.edu"
   home      : "https://aamassoud.github.io/"
   twitter   : "amassoudpr"
+  instagram : "alexanderamassoud"
   # links:
 
 # footer:
