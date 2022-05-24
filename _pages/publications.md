@@ -4,7 +4,7 @@ permalink: /publications/
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "aam [@] utdallas.edu"
+    text: "aam210003 [@] utdallas.edu"
 
 feature_row1:
   - image_path: /assets/images/bison_diorama_model_1939.jpg
