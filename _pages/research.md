@@ -4,7 +4,7 @@ permalink: /research/
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "amassoud [@] ithaca.edu"
+    text: "aam [@] utdallas.edu"
     
 gallery2:
   - url: /assets/images/gallery2-06.jpg
@@ -45,16 +45,22 @@ gallery2:
     title: "Roel Olvera and I in the Loines Observatory dome with a 24-inch research telescope."
 ---
 
+## Describing the dynamics of plasma in the boundary between the atmosphere and space
+- **Region in the Atmosphere:** The ionosphere
+- **Goal:** Develop a tool to help heliophysicists investigate how the boundary between the ionosphere responds to changes in the sun
+- **Adviser and Institution:** [Dr. Fabiano Rodrigues](https://sites.google.com/site/rodrigueslab/), UTD
+- **Current Involvement:** I am presently working with Dr. Rodrigues to collect the results into a paper. We will share an open-source version of the model for the heliophysics community to utilize
+
 ## Observing and Modeling Planet-Formation in a Distant Galaxy
 - **Region in Space:** The Small Magellanic Cloud
 - **Goal:** Characterize planet-formation in a galaxy with an abundance of heavy elements similar to the early Universe
 - **Adviser and Institution:** [Dr. Luke Keller](https://www.ithaca.edu/faculty/lkeller), Ithaca College
-- **Current Involvement:** I am writing a data-analysis pipeline in Python. The results of this pipeline will be prepared for publication and presented in competitive observation proposals
+- **Contributions:** I wrote a data-analysis pipeline in Python, the results of which were presented in competitive observation-time proposals at research telescopes
 
 ## Dark Matter in an Unusual Merging Galaxy Cluster
 - **Region in Space:** Abell 2146, a colossal system comprised of two merging galaxy clusters
 - **Goal:** Identify images of distant galaxies created by the strong gravitational influence of dark matter
 - **Adviser and Institution:** [Dr. Lindsay King](https://profiles.utdallas.edu/lindsay.king), UT Dallas, at the Maria Mitchell Observatory NSF-REU Internship in Astronomy
-- **Current Involvement:** Material is being prepared for a paper on Abell 2146 with me as a co-author
+- **Contributions:** I identified three new strongly lensed galaxies
 
 {% include gallery id="gallery2" caption="This is a gallery with pictures from my REU in Nantucket." %}
