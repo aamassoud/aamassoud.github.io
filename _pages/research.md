@@ -4,7 +4,7 @@ permalink: /research/
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "aam [@] utdallas.edu"
+    text: "aam210003 [@] utdallas.edu"
     
 gallery2:
   - url: /assets/images/gallery2-06.jpg
