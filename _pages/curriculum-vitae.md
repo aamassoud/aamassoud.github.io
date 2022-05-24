@@ -4,7 +4,7 @@ permalink: /cv/
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "aam [@] utdallas.edu"
+    text: "aam210003 [@] utdallas.edu"
 ---
 
 [Go to my CV](/assets/documents/massoud_cv_TeX.pdf)
