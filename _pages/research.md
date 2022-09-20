@@ -49,7 +49,7 @@ gallery2:
 - **Region in the Atmosphere:** The ionosphere
 - **Goal:** Develop a tool to help heliophysicists investigate how the ionosphere responds to changes in the sun
 - **Adviser and Institution:** [Dr. Fabiano Rodrigues](https://sites.google.com/site/rodrigueslab/), UTD
-- **Current Involvement:** I am presently working with Dr. Rodrigues to collect the results of a model we developed into a paper. We will share an open-source version of the model for the heliophysics community to utilize
+- **Current Involvement:** I am presently working with Dr. Rodrigues to collect the results of a model we developed into a paper. We will share an open-source version of the model for the heliophysics community to utilize. [Go to a GIF of one of the numerical models I work with](/assets/images/ui_alt_lon_polar_spin_dpi.gif)
 
 ## Observing and Modeling Planet-Formation in a Distant Galaxy
 - **Region in Space:** The Small Magellanic Cloud
