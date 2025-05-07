@@ -4,40 +4,37 @@ permalink: /publications/
 classes: wide
 sidebar:
   - title: "Contact"
-    text: "aam210003 [@] utdallas.edu"
+    text: "Alexander.Massoud [@] UTDallas.edu"
 
 feature_row1:
-  - image_path: /assets/images/bison_diorama_model_1939.jpg
-    image_caption: "Credit: AMNH Library"
+  - image_path: /assets/images/paper_2024_01.jpg
     title: ""
-    alt: "Poem titled Deriving"
-    url: "https://www.rainydaymagazine.org/archive/spring-2020"
+    alt: "Paper titled First climatology of F-region UHF echoes observed by the AMISR-14 system at the Jicamarca radio observatory and comparison with the climatology of VHF echoes observed by the collocated JULIA radar"
+    url: "https://www.sciencedirect.com/science/article/pii/S1364682624001561"
     btn_label: "Read"
     btn_class: "btn--primary"
-    excerpt: "Poem about a buffalo published in Cornell’s Rainy Day"
-  - image_path: assets/images/the_perfect_parts.jpg
-    image_caption: "Credit: Chris Hagenbuch (Ithaca ‘19)"
+    excerpt: "2024 paper about a novel radar experiment"
+  - image_path: /assets/images/paper_2023_01.jpg
     title: ""
-    alt: "Poem titled Breed Registry "
-    url: "http://icstillwater.com/2019poetry/2019/5/2/breed-registry?fbclid=IwAR1HPMPZ-FMMSpjFphFBMXtLvAvry18_vp-xgwN-eKFNy8LVd1sezdqeHxw"
+    alt: "Paper titled A height-dependent climatological model of the equatorial ionospheric zonal plasma drifts (EZDrifts): Description and application to an analysis of the longitudinal variations of the zonal drifts"
+    url: "https://www.swsc-journal.org/articles/swsc/full_html/2023/01/swsc220059/swsc220059.html"
     btn_label: "Read"
     btn_class: "btn--primary"
-    excerpt: "Poem about little white dogs published in Ithaca's Stillwater"
-  - image_path: /assets/images/the_black_maria.jpg
-    title: ""
-    alt: "Poetry collection review titled Water, Water, Everywhere: Form in the black maria"
-    url: "http://icstillwater.com/2018-pieces/2018/4/23/water-water-everywhere-form-in-the-black-maria?fbclid=IwAR1Vs7BMa49NMzee4bznjrgHUVKZwFb7fjDw_hfNCql5NVjw2feOTttIIOA"
-    btn_label: "Read"
-    btn_class: "btn--primary"
-    excerpt: "Book review of Aracelis Girmay’s *The Black Maria* published online for Stillwater"
+    excerpt: "2023 paper about modeling plasma drifts"
 ---
 
-I will update this page with my full list of peer-reviewed publications.
+For a more detailed list of publications, please see my Curriculum Vitae.
 
-## Literary
-My work that has been featured in literary magazines
+## First author
+
+Click the links below to be taken to my first author publications.
 
 {% include feature_row id="feature_row1" %}
+
+## Coauthor
+
+- Sousasantos, J., Rodrigues, F. S., Fejer, B. G., Abdu, M. A., **Massoud, A. A.,** and Valladares, C. E. (2023), [On the Role of Mild Substorms and Enhanced Hall Conductivity in the Plasma Irregularities Onset and Zonal Drift Reversals: Experimental Evidence at Distinct Longitudes Over South America](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003071), Earth Space Sci, 10(11), doi:10.1029/2023EA003071.
+- Rodrigues, F. S., Milla, M. A., Scipion, D., Apaza, J. M., Kuyeng, K. M., Sousasantos, J., **Massoud, A. A.,** and Padin, C. (2023), [On new two-dimensional UHF radar observations of equatorial spread F at the Jicamarca Radio Observatory](https://link.springer.com/article/10.1186/s40623-023-01876-7), Earth Planets Space, 75, doi:10.1186/s40623-023-01876-7.
 
 ## Miscellaneous
 Things I've created that may not fall into a convenient category
