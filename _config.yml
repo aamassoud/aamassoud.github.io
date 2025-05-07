@@ -57,14 +57,15 @@ plugins:
 
 author:
   name      : "Alexander Massoud (He/Him/His)"
-  avatar    : "/assets/images/bio-photo.jpg"
-  bio       : "PhD student @ UTD"
+  avatar    : "/assets/images/bio-photo-02.jpg"
+  bio       : "PhD candidate @ UTD"
   location  : "Richardson, Texas"
   email     : "aam210003@utdallas.edu"
   home      : "https://aamassoud.github.io/"
-  twitter   : "amassoudpr"
-  instagram : "alexanderamassoud"
-  # links:
+  links:
+    - label: "Instagram"
+      icon: "fa-brands fa-instagram"
+      url: "https://instagram.com/alexanderamassoud"
 
 # footer:
 
