@@ -60,12 +60,14 @@ author:
   avatar    : "/assets/images/bio-photo-v2.jpg"
   bio       : "PhD candidate @ UTD"
   location  : "Richardson, Texas"
-  email     : "aam210003@utdallas.edu"
   home      : "https://aamassoud.github.io/"
   links:
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
       url: "https://instagram.com/alexanderamassoud"
+    - label: "Email"
+      icon: "fa-regular fa-envelope"
+      url: "mailto:Alexander.Massoud@UTDallas.edu"
 
 # footer:
 
