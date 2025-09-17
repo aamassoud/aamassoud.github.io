@@ -21,6 +21,15 @@ feature_row1:
     btn_label: "Read"
     btn_class: "btn--primary"
     excerpt: "2023 paper about modeling plasma drifts"
+
+feature_row2:
+  - image_path: /assets/images/pcitureBook_cover_socialPost.png
+    title: ""
+    alt: "Picture book project titled Across the Street from a Tree"
+    url: "/assets/documents/pictureBook_tree_v2_merged_2Bshared.pdf"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+    excerpt: "Picture book project illustrated by a friend"
 ---
 
 For a more detailed list of publications, please see my Curriculum Vitae.
@@ -38,5 +47,7 @@ Click the links below to be taken to my first author publications.
 
 ## Miscellaneous
 Things I've created that may not fall into a convenient category
+
+{% include feature_row id="feature_row2" %}
 
 <iframe frameborder="0" src="https://itch.io/embed/973915" width="552" height="167"><a href="https://amaas.itch.io/pocket-planet-fantasy">Pocket Planet Fantasy by amaas</a></iframe>
