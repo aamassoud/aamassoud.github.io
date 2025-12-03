@@ -7,6 +7,13 @@ sidebar:
     text: "Alexander.Massoud [@] UTDallas.edu"
 
 feature_row1:
+  - image_path: /assets/images/paper_2025_01.jpg
+    title: ""
+    alt: "Paper titled Study of local and non-local post-midnight equatorial spread-F generation based on long-term AMISR-14 observations"
+    url: "https://rdcu.be/eR2hp"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+    excerpt: "2025 paper about atypical irregularities in ionospheric plasma"
   - image_path: /assets/images/paper_2024_01.jpg
     title: ""
     alt: "Paper titled First climatology of F-region UHF echoes observed by the AMISR-14 system at the Jicamarca radio observatory and comparison with the climatology of VHF echoes observed by the collocated JULIA radar"
