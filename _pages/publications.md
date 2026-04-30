@@ -7,10 +7,17 @@ sidebar:
     text: "Alexander.Massoud [@] UTDallas.edu"
 
 feature_row1:
+  - image_path: /assets/images/paper_2026_01.jpg
+    title: ""
+    alt: "Paper titled On vertical plasma drift measurements made by a new medium power incoherent scatter radar (MP ISR) mode at the Jicamarca Radio Observatory"
+    url: "https://doi.org/10.1016/j.asr.2026.03.009"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+    excerpt: "2026 paper about a novel radar mode at an observatory"
   - image_path: /assets/images/paper_2025_01.jpg
     title: ""
     alt: "Paper titled Study of local and non-local post-midnight equatorial spread-F generation based on long-term AMISR-14 observations"
-    url: "https://rdcu.be/eR2hp"
+    url: "https://link.springer.com/article/10.1186/s40623-025-02319-1"
     btn_label: "Read"
     btn_class: "btn--primary"
     excerpt: "2025 paper about atypical irregularities in ionospheric plasma"
@@ -21,6 +28,8 @@ feature_row1:
     btn_label: "Read"
     btn_class: "btn--primary"
     excerpt: "2024 paper about a novel radar experiment"
+
+feature_row2:
   - image_path: /assets/images/paper_2023_01.jpg
     title: ""
     alt: "Paper titled A height-dependent climatological model of the equatorial ionospheric zonal plasma drifts (EZDrifts): Description and application to an analysis of the longitudinal variations of the zonal drifts"
@@ -29,7 +38,7 @@ feature_row1:
     btn_class: "btn--primary"
     excerpt: "2023 paper about modeling plasma drifts"
 
-feature_row2:
+feature_row3:
   - image_path: /assets/images/pcitureBook_cover_socialPost.png
     title: ""
     alt: "Picture book project titled Across the Street from a Tree"
@@ -47,6 +56,8 @@ Click the links below to be taken to my first author publications.
 
 {% include feature_row id="feature_row1" %}
 
+{% include feature_row id="feature_row2" %}
+
 ## Coauthor
 
 - Sousasantos, J., Rodrigues, F. S., Fejer, B. G., Abdu, M. A., **Massoud, A. A.,** and Valladares, C. E. (2023), [On the Role of Mild Substorms and Enhanced Hall Conductivity in the Plasma Irregularities Onset and Zonal Drift Reversals: Experimental Evidence at Distinct Longitudes Over South America](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA003071), Earth Space Sci, 10(11), doi:10.1029/2023EA003071.
@@ -55,6 +66,6 @@ Click the links below to be taken to my first author publications.
 ## Miscellaneous
 Things I've created that may not fall into a convenient category
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
 
 <iframe frameborder="0" src="https://itch.io/embed/973915" width="552" height="167"><a href="https://amaas.itch.io/pocket-planet-fantasy">Pocket Planet Fantasy by amaas</a></iframe>
